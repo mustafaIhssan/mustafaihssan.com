@@ -13,7 +13,7 @@ export const Information = () => {
       <div className="flex space-x-5 justify-between">
         <CardInfo
           title="Web and Mobile Development"
-          description="Product Design I have designed mobile apps, websites and eCommerce stores. I mainly work with React, Next.js, Node.js, and Postgress. I also develop mobile apps using React Native."
+          description="I have designed mobile apps, websites and eCommerce stores. I mainly work with React, Next.js, Node.js, and Postgress. I also develop mobile apps using React Native."
           icon="/terminal-square.svg"
           link="#"
           linkText="See my Work"
@@ -22,7 +22,7 @@ export const Information = () => {
 
         <CardInfo
           title="Freelance"
-          description="Freelance I Can help you with your next project, I have worked with many clients from all over the world, and I have helped them to build their next product."
+          description="I have worked with many clients from all over the world, and I have helped them to build their next product, I Can help you with your next project."
           icon="/palette.svg"
           link="#"
           linkText="See my Work"
